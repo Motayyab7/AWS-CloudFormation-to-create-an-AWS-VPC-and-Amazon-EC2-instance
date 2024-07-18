@@ -55,7 +55,7 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t3.micro
-      ImageId: ami-04f09cccbe9f8b966
+      ImageId: ami-078701cc0905d44e4
       SubnetId: !Ref MyPrivateSubnet
       SecurityGroupIds: 
         - !Ref MySecurityGroup
