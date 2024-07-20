@@ -1,4 +1,5 @@
-This lab is an environment for creating an Amazon VPC and Amazon EC2 instance (and other supporting elements) using an AWS CloudFormation template.  
+This lab is an environment for creating an Amazon VPC and Amazon EC2 instance 
+(and other supporting elements) using an AWS CloudFormation template.  
 -
 
 The goal of this lab is to create a CloudFormation template with the following components.
